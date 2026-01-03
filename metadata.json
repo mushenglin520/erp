@@ -1,0 +1,5 @@
+{
+  "name": "ERP Integrated CO-MM System",
+  "description": "A sophisticated ERP dashboard demonstrating the integration between Controlling (CO) and Material Management (MM) modules, featuring inventory costing, planning control, and AI-driven cost analysis.",
+  "requestFramePermissions": []
+}
